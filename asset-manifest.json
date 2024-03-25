@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b2a8170.chunk.css",
+    "main.js": "/static/js/main.f5a3438e.chunk.js",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "static/js/2.138b3a48.chunk.js": "/static/js/2.138b3a48.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.9946fcdd0185c300182d242e5724d66d.js": "/precache-manifest.9946fcdd0185c300182d242e5724d66d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/banner.png": "/static/media/banner.ed08e733.png",
+    "static/media/sort-page-demo.png": "/static/media/sort-page-demo.5fbd2110.png",
+    "static/media/spotify-logo-round.png": "/static/media/spotify-logo-round.d154494c.png",
+    "static/media/tools-page-demo.png": "/static/media/tools-page-demo.9583acbe.png"
+  }
+}
